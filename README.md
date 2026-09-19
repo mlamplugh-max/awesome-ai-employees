@@ -61,7 +61,6 @@ An agent framework is a developer library that runs the loop of model call, tool
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Open standard for connecting AI applications to tools and data sources; supported by Claude, ChatGPT, VS Code and Cursor among others.
 - [Agent2Agent Protocol](https://a2a-protocol.org/latest/) - "An open standard for seamless communication and collaboration between AI agents", governed by a Linux Foundation technical steering committee.
 - [OpenClaw](https://github.com/openclaw/openclaw) - MIT (OpenClaw Foundation); open-source TypeScript assistant that runs on the user's own hardware and works from WhatsApp, Telegram, Discord, Slack, Signal, iMessage and other chat channels (29 listed on [openclaw.ai](https://openclaw.ai)); 390,067 GitHub stars, 82,013 forks and 4,051,509 npm downloads for the week 2026-09-10 to 2026-09-16 per the [npm downloads API](https://api.npmjs.org/downloads/point/last-week/openclaw), checked 2026-09-18.
-- [clawhire-openclaw-gateway](https://github.com/mlamplugh-max/clawhire-openclaw-gateway) - Elastic License 2.0 (source-available); a worker that runs OpenClaw agents for many tenants with a private OS sandbox per agent, per-tenant scoping and OAuth token brokering, and a monthly cost cap behind a REST contract; maintained by this list's maintainer.
 
 ## AI employee platforms and role-specific agents
 
